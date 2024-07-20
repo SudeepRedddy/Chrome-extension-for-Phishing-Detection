@@ -1,7 +1,7 @@
 # Chrome-extension-for-Phishing-Detection
 The project is a Chrome extension that protects users from phishing attacks by detecting and alerting them about malicious IP addresses. It provides real-time monitoring, immediate alerts, and an easy-to-use interface to ensure safe browsing.
 
-# Installation Process
+Installation Process
 Download the ZIP file and extract it.
 Open the chrome browser click on the three dots on the right top corner.
 Click on the extension section and open manage extension.
