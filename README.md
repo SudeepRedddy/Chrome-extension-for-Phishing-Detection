@@ -4,10 +4,15 @@ The project is a Chrome extension that protects users from phishing attacks by d
 Installation Process
 
 Download the ZIP file and extract it.
+
 Open the chrome browser click on the three dots on the right top corner.
+
 Click on the extension section and open manage extension.
+
 Turn on the Developer Mode from the rigth corner.
+
 Select the Load unpacked option and upload the unzipped folder.
+
 Pin the extension and you are good to go.
 
 While you surf on the Internet you can see a pop which gives you a info about the website if it is safe or unsafe 
